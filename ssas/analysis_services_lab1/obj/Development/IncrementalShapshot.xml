@@ -1,0 +1,124 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>analysis_services_lab1</Database>
+    <Server>localhost</Server>
+    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>Default</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>oujqc18cXQ5Bp3SJvMZJtJuRfW4=10/20/2021 9:42:27 AM10/20/2021 9:42:27 AM</TimeStamp>
+        <ID>
+          <String>Czw</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>S7MguN9RypgdQ4q/aJZuilXvuv0=11/20/2021 4:01:36 PM11/20/2021 4:01:36 PM</TimeStamp>
+        <ID>
+          <String>Czw 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>Wyx6W+fifbfOODCn8NnE+OT7S4Q=11/24/2021 4:26:36 PM10/20/2021 9:53:55 AM</TimeStamp>
+        <ID>
+          <String>Czw</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>emJzBdEC8c/9/XoKY/8k7A0x6LM=11/27/2021 9:09:28 PM11/20/2021 4:01:52 PM</TimeStamp>
+        <ID>
+          <String>Czw 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>MUbf1k2RwIXXFp9aGGf2gqsMYU4=10/27/2021 8:30:47 AM10/20/2021 10:08:26 AM</TimeStamp>
+        <ID>
+          <String>Students</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>joNPob/RCEI28YGjO5ZpZfOqKFw=10/20/2021 10:58:05 AM10/20/2021 10:58:05 AM</TimeStamp>
+        <ID>
+          <String>Semester</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>x3xWy9lnzN35fFFY6Z6e0ZryJ9U=11/20/2021 4:56:07 PM11/20/2021 4:41:34 PM</TimeStamp>
+        <ID>
+          <String>Students 1</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>lD/SghrVV+VVP0BEravX0eBSqs4=11/20/2021 5:08:06 PM11/20/2021 4:41:34 PM</TimeStamp>
+        <ID>
+          <String>Course Group</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ZgWXiGnuQm6lqk7roZv6KsntGxI=11/27/2021 7:30:47 PM11/20/2021 4:41:34 PM</TimeStamp>
+        <ID>
+          <String>Teachers</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>lNUsp/CH9b1+P1NPJIvpwT7JAAQ=11/27/2021 9:09:44 PM11/24/2021 4:23:05 PM</TimeStamp>
+        <ID>
+          <String>Grades Desc</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>qcRIMiFTgSBeKLD49YIao0TQeRo=11/27/2021 7:24:52 PM11/27/2021 7:24:52 PM</TimeStamp>
+        <ID>
+          <String>Workload</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>dg40ZySaq/jcfkMY+GEvPJuDDf0=11/24/2021 4:17:03 PM10/20/2021 10:08:26 AMrO3wi/t8leoCScIOgJgPmLiz2hg=10/20/2021 10:08:26 AM10/20/2021 10:08:26 AM</TimeStamp>
+        <ID>
+          <String>Czw</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>1GOoYKlDPhqmiuPUD29n2Zo4+iE=11/27/2021 9:09:44 PM11/20/2021 4:41:34 PM9wNCsxz8Bjke7pWJF79OIMwyRjg=11/20/2021 5:12:27 PM11/20/2021 4:41:34 PM</TimeStamp>
+        <ID>
+          <String>Czw 1</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>LZXjK/NPPDUrY+UJIO1kgELeRiI=11/24/2021 4:19:03 PM10/20/2021 9:39:08 AM</TimeStamp>
+      <ID>
+        <String>analysis_services_lab1</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2021-11-27T20:10:54.59Z</LastDeployed>
+</DeploymentSnapshot>
