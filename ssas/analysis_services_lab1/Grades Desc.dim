@@ -1,4 +1,4 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="09af1975-4109-45c8-8b3c-f5060d054c99" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="d5294df7-61bd-4d0f-a44b-69c23faa84ea" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Grades Desc</ID>
   <Name>Grades Desc</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3642" scrolltop="-5197" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="10372" y="12700" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3642" scrolltop="-5197" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7070" y="11769" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
             </font>
@@ -19,7 +19,7 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="grades_desc" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3048" height="2307" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="grades_desc" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3048" height="2307" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000e80b000003090000" />
             </control>
@@ -68,57 +68,57 @@
   </Annotations>
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
-  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="5498eb8e-17c5-405a-96c3-dc91d45b858c">
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="2558e30e-4dbf-4b61-94d4-ce3f0d3893ed">
     <DataSourceViewID>Czw 1</DataSourceViewID>
   </Source>
   <UnknownMember>Visible</UnknownMember>
-  <ErrorConfiguration dwd:design-time-name="0ea612fa-52b0-4b15-8883-54a97dfa7331">
+  <ErrorConfiguration dwd:design-time-name="83a40e11-e43a-47dd-9cb5-6c01fe95e76b">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
     <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
   </ErrorConfiguration>
   <CurrentStorageMode>Molap</CurrentStorageMode>
   <Attributes>
-    <Attribute dwd:design-time-name="c7ddebe4-9e77-4a95-9189-936dad695b5f">
+    <Attribute dwd:design-time-name="418ee60c-523b-4b74-93c2-cead0bd799af">
       <ID>Semester</ID>
       <Name>Semester</Name>
       <Usage>Key</Usage>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="23a72357-1ace-42df-a6e5-48c7c3893abb">
+        <KeyColumn dwd:design-time-name="4084416c-ac52-4b8d-8d6e-37eba3a167cb">
           <DataType>SmallInt</DataType>
           <NullProcessing>UnknownMember</NullProcessing>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="fce202bc-33e1-4227-bd92-e609bff67b53">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="ae875dcd-c89d-403b-8044-353b9c00d1f7">
             <TableID>grades_desc</TableID>
             <ColumnID>semester</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
       <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="6792e5a7-762a-4bf4-b337-95307a0eed0e">
+        <AttributeRelationship dwd:design-time-name="23e04ea2-3bcf-4ac8-80f2-ded904760e79">
           <AttributeID>Semester Type</AttributeID>
           <Name>Semester Type</Name>
         </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="cc94f455-5aa8-49d7-bcac-53b3560999d3">
-          <AttributeID>Course Type</AttributeID>
-          <Name>Course Type</Name>
-        </AttributeRelationship>
-        <AttributeRelationship dwd:design-time-name="2c0b3f8e-f000-41b4-a0bc-ac7e16005d36">
+        <AttributeRelationship dwd:design-time-name="3664ce11-7618-4062-ae3b-2d66edd03de4">
           <AttributeID>Year Of Study</AttributeID>
           <Name>Year Of Study</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="5f9ab5d8-0430-45db-878f-a966cc7850c1">
+          <AttributeID>Exam</AttributeID>
+          <Name>Exam</Name>
         </AttributeRelationship>
       </AttributeRelationships>
       <OrderBy>Key</OrderBy>
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="6a4ec75d-0fa3-4dfa-ae14-91f000f5c180">
+    <Attribute dwd:design-time-name="cb8d1745-4dcc-4b51-b441-2c134ada4f82">
       <ID>Semester Type</ID>
       <Name>Semester Type</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="6e7dc385-21b9-48dd-bf2a-097e3ba60bfb">
+        <KeyColumn dwd:design-time-name="0cc1e551-9174-4615-af4f-d0bfe324aae9">
           <DataType>WChar</DataType>
           <DataSize>1</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="d27d6a17-2d32-4c0a-9fb4-505bcdb84d8e">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="cdbb1b18-4178-429b-b5c2-9435d0e290f3">
             <TableID>grades_desc</TableID>
             <ColumnID>semester_type</ColumnID>
           </Source>
@@ -128,32 +128,31 @@
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="379da4f8-0410-4700-a463-b4dd5f804ed7">
-      <ID>Course Type</ID>
-      <Name>Course Type</Name>
-      <KeyColumns>
-        <KeyColumn dwd:design-time-name="bda34ddc-7517-43a0-a212-933902b1ae01">
-          <DataType>WChar</DataType>
-          <DataSize>1</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="512c99ff-f085-407a-a938-629c14aa1972">
-            <TableID>grades_desc</TableID>
-            <ColumnID>course_type</ColumnID>
-          </Source>
-        </KeyColumn>
-      </KeyColumns>
-      <OrderBy>Key</OrderBy>
-      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
-      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
-    </Attribute>
-    <Attribute dwd:design-time-name="1d236804-9574-4b1c-8135-9c6a1da29ee0">
+    <Attribute dwd:design-time-name="d3cb0fd6-afc2-4196-a39f-0aba201514cc">
       <ID>Year Of Study</ID>
       <Name>Year Of Study</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="bbe6acbd-ab67-445a-8442-cdf42bd0b1b1">
+        <KeyColumn dwd:design-time-name="0837c34e-6a64-4292-b9e5-19d07abd4750">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="3e04b0c6-08ed-48db-8c7a-12097a193491">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="e0fe4ade-527d-462d-b6c4-0c04c8a9da84">
             <TableID>grades_desc</TableID>
             <ColumnID>year_of_study</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="7bb77d65-420b-499d-a0a8-b7fb81398d42">
+      <ID>Exam</ID>
+      <Name>Exam</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="e4a5af72-a303-4989-bd34-5c5c516ebc73">
+          <DataType>WChar</DataType>
+          <DataSize>2</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="5512741b-ad45-455c-beb6-9a73464b9925">
+            <TableID>grades_desc</TableID>
+            <ColumnID>exam</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>

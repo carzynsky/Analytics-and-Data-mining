@@ -1,4 +1,4 @@
-﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="c9da44d9-5984-4a12-94e9-e12e5b3cd815" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="7a60a4cc-77d6-45fd-aac1-4933613a4c82" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Czw 1</ID>
   <Name>Czw 1</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="30" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-11464" scrolltop="5445" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="95" x="28871" y="12700" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="36" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-7679" scrolltop="-653" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="95" x="17886" y="11769" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
             </font>
@@ -19,7 +19,7 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="students" left="-5629" top="11172" logicalid="15" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="2667" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="students" left="-1151" top="14648" logicalid="15" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="2667" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000b80b00006b0a0000" />
             </control>
@@ -52,18 +52,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="grades" left="20" top="9414" logicalid="18" controlid="4" masterid="0" hint1="0" hint2="0" width="3048" height="4466" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-            <control>
-              <ddsxmlobjectstreaminitwrapper binary="000e0000e80b000072110000" />
-            </control>
-            <layoutobject>
-              <ddsxmlobj>
-                <property name="LogicalObject" value="dbo_grades" vartype="8" />
-              </ddsxmlobj>
-            </layoutobject>
-            <shape groupshapeid="0" groupnode="0" />
-          </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="course_group" left="5468" top="10673" logicalid="19" controlid="5" masterid="0" hint1="0" hint2="0" width="3000" height="1947" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="course_group" left="5023" top="9827" logicalid="19" controlid="5" masterid="0" hint1="0" hint2="0" width="3000" height="1947" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000b80b00009b070000" />
             </control>
@@ -73,26 +62,6 @@
               </ddsxmlobj>
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
-          </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="-2929" top="11006" logicalid="20" controlid="6" masterid="0" hint1="0" hint2="0" width="3249" height="941" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-            <control>
-              <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
-              </ddsxmlobj>
-            </control>
-            <layoutobject>
-              <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[grades-students]" vartype="8" />
-                <property name="Virtual" value="0" vartype="11" />
-                <property name="VisibleAP" value="0" vartype="3" />
-              </ddsxmlobj>
-            </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="1" destid="4" sourceattachpoint="11" destattachpoint="16" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="-2629" y="11405" />
-              <point x="-1305" y="11405" />
-              <point x="-1305" y="11647" />
-              <point x="20" y="11647" />
-            </connector>
           </ddscontrol>
           <ddscontrol controlprogid="MSDDS.Polyline" left="2744" top="4830" logicalid="21" controlid="7" masterid="0" hint1="0" hint2="0" width="2792" height="1158" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
@@ -109,49 +78,9 @@
             </layoutobject>
             <connector lineroutestyle="MSDDS.Rectilinear" sourceid="3" destid="2" sourceattachpoint="10" destattachpoint="13" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
               <point x="5236" y="5588" />
-              <point x="4183" y="5588" />
-              <point x="4183" y="5130" />
+              <point x="4140" y="5588" />
+              <point x="4140" y="5130" />
               <point x="3044" y="5130" />
-            </connector>
-          </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="144" top="6515" logicalid="22" controlid="8" masterid="0" hint1="0" hint2="0" width="1800" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-            <control>
-              <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
-              </ddsxmlobj>
-            </control>
-            <layoutobject>
-              <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[grades-teachers]" vartype="8" />
-                <property name="Virtual" value="0" vartype="11" />
-                <property name="VisibleAP" value="0" vartype="3" />
-              </ddsxmlobj>
-            </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="2" destid="4" sourceattachpoint="5" destattachpoint="0" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="1544" y="7014" />
-              <point x="1544" y="8593" />
-              <point x="444" y="8593" />
-              <point x="444" y="9414" />
-            </connector>
-          </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="2768" top="11247" logicalid="23" controlid="9" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-            <control>
-              <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
-              </ddsxmlobj>
-            </control>
-            <layoutobject>
-              <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[grades-course_group]" vartype="8" />
-                <property name="Virtual" value="0" vartype="11" />
-                <property name="VisibleAP" value="0" vartype="3" />
-              </ddsxmlobj>
-            </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="5" destid="4" sourceattachpoint="12" destattachpoint="17" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="5468" y="11646" />
-              <point x="4268" y="11646" />
-              <point x="4268" y="11647" />
-              <point x="3068" y="11647" />
             </connector>
           </ddscontrol>
           <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="workload" left="-5150" top="7543" logicalid="24" controlid="10" masterid="0" hint1="0" hint2="0" width="3133" height="1891" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
@@ -180,12 +109,12 @@
             </layoutobject>
             <connector lineroutestyle="MSDDS.Rectilinear" sourceid="2" destid="10" sourceattachpoint="12" destattachpoint="11" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
               <point x="44" y="5130" />
-              <point x="-1617" y="5130" />
-              <point x="-1617" y="7938" />
+              <point x="-986" y="5130" />
+              <point x="-986" y="7938" />
               <point x="-2017" y="7938" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="grades_desc" left="-53" top="15138" logicalid="26" controlid="12" masterid="0" hint1="0" hint2="0" width="3000" height="2270" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="grades_desc" left="-4532" top="10972" logicalid="26" controlid="12" masterid="0" hint1="0" hint2="0" width="3000" height="2270" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000b80b0000de080000" />
             </control>
@@ -196,7 +125,98 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="-52" top="13580" logicalid="27" controlid="13" masterid="0" hint1="0" hint2="0" width="2996" height="2058" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="grades" left="401" top="8891" logicalid="30" controlid="16" masterid="0" hint1="0" hint2="0" width="3000" height="4078" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000b80b0000ee0f0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_grades" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="3101" top="10630" logicalid="31" controlid="17" masterid="0" hint1="0" hint2="0" width="2222" height="1120" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_dbo_course_group_dbo_grades]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="5" destid="16" sourceattachpoint="14" destattachpoint="17" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="5023" y="11350" />
+              <point x="4435" y="11350" />
+              <point x="4435" y="10930" />
+              <point x="3401" y="10930" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="501" top="6515" logicalid="32" controlid="18" masterid="0" hint1="0" hint2="0" width="893" height="2676" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_dbo_teachers_dbo_grades]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="2" destid="16" sourceattachpoint="3" destattachpoint="0" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="994" y="7014" />
+              <point x="994" y="7952" />
+              <point x="801" y="7952" />
+              <point x="801" y="8891" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="-2317" top="8639" logicalid="33" controlid="19" masterid="0" hint1="0" hint2="0" width="3018" height="941" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_dbo_workload_dbo_grades]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="10" destid="16" sourceattachpoint="15" destattachpoint="10" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="-2017" y="9038" />
+              <point x="-808" y="9038" />
+              <point x="-808" y="9280" />
+              <point x="401" y="9280" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="-1150" top="12669" logicalid="34" controlid="20" masterid="0" hint1="0" hint2="0" width="4451" height="2479" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[FK_dbo_students_dbo_grades]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="1" destid="16" sourceattachpoint="0" destattachpoint="9" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="-751" y="14648" />
+              <point x="-751" y="13463" />
+              <point x="3001" y="13463" />
+              <point x="3001" y="12969" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="-4531" top="9530" logicalid="35" controlid="21" masterid="0" hint1="0" hint2="0" width="5232" height="1942" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
                 <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
@@ -209,31 +229,10 @@
                 <property name="VisibleAP" value="0" vartype="3" />
               </ddsxmlobj>
             </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="12" destid="4" sourceattachpoint="0" destattachpoint="9" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="347" y="15138" />
-              <point x="347" y="14637" />
-              <point x="2644" y="14637" />
-              <point x="2644" y="13880" />
-            </connector>
-          </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="-2317" top="8089" logicalid="28" controlid="14" masterid="0" hint1="0" hint2="0" width="2637" height="2758" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-            <control>
-              <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
-              </ddsxmlobj>
-            </control>
-            <layoutobject>
-              <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[grades-workload]" vartype="8" />
-                <property name="Virtual" value="0" vartype="11" />
-                <property name="VisibleAP" value="0" vartype="3" />
-              </ddsxmlobj>
-            </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="10" destid="4" sourceattachpoint="13" destattachpoint="12" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="-2017" y="8488" />
-              <point x="-999" y="8488" />
-              <point x="-999" y="10547" />
-              <point x="20" y="10547" />
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="12" destid="16" sourceattachpoint="0" destattachpoint="12" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="-4132" y="10972" />
+              <point x="-4132" y="9830" />
+              <point x="401" y="9830" />
             </connector>
           </ddscontrol>
         </dds>
@@ -253,15 +252,15 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
-      <Value>-11464</Value>
+      <Value>-7679</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
-      <Value>5445</Value>
+      <Value>-653</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
-      <Value>-5629</Value>
+      <Value>-5150</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
@@ -275,106 +274,106 @@
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
   <Dimensions>
-    <Dimension dwd:design-time-name="ea60c252-20c2-4a14-9514-5b31d2f96b30">
+    <Dimension dwd:design-time-name="3bfc2ed7-0fb2-4532-a1b2-40c026dffe6b">
       <ID>Students 1</ID>
       <Name>Students 1</Name>
       <DimensionID>Students 1</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="291dfb40-9b98-45d8-af91-b37444080f67">
+        <Attribute dwd:design-time-name="56030310-80e9-4d4b-8e60-9763e1f59a2f">
           <AttributeID>Student Id</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="ff7d758c-dc74-4586-978b-8ffcf041e83e">
+        <Attribute dwd:design-time-name="53532572-5e0f-4ec6-af1e-407e29e7fe22">
           <AttributeID>Gender</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="540306f2-b5c4-4ac2-81b2-49001aed44f6">
+        <Attribute dwd:design-time-name="40107c7c-3175-43c7-865d-a3c777a2900e">
           <AttributeID>Spec</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="1cad7b73-efc3-4ba4-ac82-b9d4f78dd0b5">
+        <Attribute dwd:design-time-name="45aaba2e-8d00-4b3b-bfad-78d62572e3b4">
           <AttributeID>Sub Spec</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="5b363cc7-caa8-4b08-8236-c3f17e7cfec7">
+        <Attribute dwd:design-time-name="51214c27-2e27-41a1-abb0-4ac2ebce8889">
           <AttributeID>Sub Spec2</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="1e1cf3c1-7339-4505-87e1-fc271e9a5a2b">
+        <Hierarchy dwd:design-time-name="21fb6931-a81f-41cb-99fa-18100b514a08">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="05790cf1-ea3a-4f1f-88d1-2b8d9300bc6d">
+    <Dimension dwd:design-time-name="0004bee1-c79c-4b9b-8f71-5a1e786d4d0f">
       <ID>Course Group</ID>
       <Name>Course Group</Name>
       <DimensionID>Course Group</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="9f12ddb9-85da-46be-a84b-b3187a986275">
+        <Attribute dwd:design-time-name="4dafbbdb-48df-44b8-81ab-640a86b32f97">
           <AttributeID>Course</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="ef8b7c2b-e1ab-4a5e-b738-24953cd983b3">
+        <Attribute dwd:design-time-name="ecb09e37-90f7-44a4-bd7b-69421a7f3766">
           <AttributeID>Course Group</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="fc91df78-5be5-4a8b-ac50-245218515883">
+        <Attribute dwd:design-time-name="01b8d95e-dc90-45b9-9e75-7211b986a5f9">
           <AttributeID>Course Type</AttributeID>
         </Attribute>
       </Attributes>
     </Dimension>
-    <Dimension dwd:design-time-name="28f7ed97-5aa2-462a-b73e-123f734ab183">
+    <Dimension dwd:design-time-name="ff58fff5-871d-4d2b-a1a9-b402817e9afe">
       <ID>Teachers</ID>
       <Name>Teachers</Name>
       <DimensionID>Teachers</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="558f0c3f-5cb4-4268-b0b6-cbab71f8bb5e">
+        <Attribute dwd:design-time-name="e92441de-b96b-4970-87f7-f0c0a1e69163">
           <AttributeID>Teacher Id</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="07470781-6c93-4b68-90b6-f6f6041562bf">
+        <Attribute dwd:design-time-name="86b583a7-1d02-4a3d-997c-1a09a65dff67">
           <AttributeID>Gender</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="6c6ff528-d84a-4287-858c-3228d7e301b0">
+        <Attribute dwd:design-time-name="5b2d421f-9ec4-4ad2-91b7-1a6e9981d470">
           <AttributeID>Faculty</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="386456b4-8844-4775-b705-5543bc6a2f70">
+        <Attribute dwd:design-time-name="5a12c327-0fae-4a3e-9a21-49c3bc247a97">
           <AttributeID>Institute</AttributeID>
         </Attribute>
       </Attributes>
     </Dimension>
-    <Dimension dwd:design-time-name="7e7a2476-0ca0-4180-a2fd-7b740626e3f0">
+    <Dimension dwd:design-time-name="7803f415-5ba1-44d8-b6bd-be2acf39fedd">
       <ID>Grades Desc</ID>
       <Name>Grades Desc</Name>
       <DimensionID>Grades Desc</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="00f199b8-68ce-4ecb-bd71-2d627b1fe874">
+        <Attribute dwd:design-time-name="efc7a96b-8510-4c78-a4be-4837ab4d357f">
           <AttributeID>Semester</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c569905f-3e19-4dc3-806b-dbfe74d4ed3a">
+        <Attribute dwd:design-time-name="0e5e7fb7-8f4f-412f-90a4-dc8af497185a">
           <AttributeID>Semester Type</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="41e408f8-0b5a-4eec-9c50-bf694306875e">
-          <AttributeID>Course Type</AttributeID>
-        </Attribute>
-        <Attribute dwd:design-time-name="28e811ed-4fc0-45d9-a64c-8d74ce67b768">
+        <Attribute dwd:design-time-name="5d28b4f5-48a0-49ef-90f7-95599a7fe5d6">
           <AttributeID>Year Of Study</AttributeID>
+        </Attribute>
+        <Attribute dwd:design-time-name="b3a29ccf-9412-457a-ac5d-c4f4d83f4810">
+          <AttributeID>Exam</AttributeID>
         </Attribute>
       </Attributes>
     </Dimension>
-    <Dimension dwd:design-time-name="bd0ad369-9b26-4275-a928-c72fb5a88145">
+    <Dimension dwd:design-time-name="bd6f952b-76a6-4f93-a74a-7f231e146c9b">
       <ID>Workload</ID>
       <Name>Workload</Name>
       <DimensionID>Workload</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="a6754bc6-a9ba-47fa-9193-88c394ee68dd">
+        <Attribute dwd:design-time-name="3326165b-51a4-4f5b-9778-306775d25940">
           <AttributeID>Teacher Id</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="82685a29-a22a-47e4-8a68-21cd594796e1">
+        <Attribute dwd:design-time-name="8802820f-39fb-465c-a69a-815e96bd4891">
           <AttributeID>Semester</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="e4af7b46-3d22-4b9f-93d8-94de0b3336d3">
+        <Attribute dwd:design-time-name="4d29d07e-529e-4a48-9035-387791792ec7">
           <AttributeID>Grades Quantity</AttributeID>
         </Attribute>
       </Attributes>
     </Dimension>
   </Dimensions>
   <MeasureGroups>
-    <MeasureGroup dwd:design-time-name="12c6452e-3cc2-44c0-b2d9-31d89747d8a1">
+    <MeasureGroup dwd:design-time-name="b0027a76-2b52-430b-a12e-f2ad5fb6023b">
       <ID>Grades</ID>
       <Name>Grades</Name>
       <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -382,68 +381,68 @@
       <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
       <State>Unprocessed</State>
       <Measures>
-        <Measure dwd:design-time-name="c3087594-7f7c-4689-8957-8ae1ce68dd79">
+        <Measure dwd:design-time-name="889278d5-dc33-4c10-9019-9eb851ef3bc5">
           <ID>Semester</ID>
           <Name>Semester</Name>
-          <Source dwd:design-time-name="f8d6cbb3-a64c-49dd-ba98-574355b6dac4">
+          <Source dwd:design-time-name="f0d65f7b-0518-4a35-ab53-d03250fd4421">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="c4f61cdf-5a06-4a43-b246-4911ac361c76">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="26702ef1-0011-4085-9aa0-103cb8ae447c">
               <TableID>dbo_grades</TableID>
               <ColumnID>semester</ColumnID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="7ca71872-12e2-444b-ad53-3763496d3d94">
+        <Measure dwd:design-time-name="74cda7a4-ef7d-4561-bf9e-f56dc76562b6">
           <ID>Year</ID>
           <Name>Year</Name>
-          <Source dwd:design-time-name="96672e1b-77fb-4586-8a09-e081e70683fb">
+          <Source dwd:design-time-name="cb83d13d-1afa-4481-ba2a-6450e207d44e">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="bc4d315c-1d9c-48b6-b30c-3afac442a627">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="cf294cd6-9323-4fa6-ad2c-cc541d85291e">
               <TableID>dbo_grades</TableID>
               <ColumnID>year</ColumnID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="41dacaf7-de28-4df4-bf6f-18c3450b9faf">
+        <Measure dwd:design-time-name="3b60377a-2339-4ab2-ae0e-9ef2b173b2e9">
           <ID>Grade</ID>
           <Name>Grade</Name>
-          <Source dwd:design-time-name="85f5641c-4774-4a63-b1cf-2ff64735d1ff">
+          <Source dwd:design-time-name="105f53e0-2334-425b-bdeb-829c64a0b8d6">
             <DataType>Single</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="fa987386-0bf2-4535-a8be-66e32e1b3082">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="dcb3df15-e0a5-4b25-a6b9-4fbb2ae4d3c0">
               <TableID>dbo_grades</TableID>
               <ColumnID>grade</ColumnID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="99c45a98-a37a-4efe-9fe6-c94fd7e4e0af">
+        <Measure dwd:design-time-name="a52f9b1c-79d2-4b6b-afd6-6efdd15c154e">
           <ID>Year Of Study</ID>
           <Name>Year Of Study</Name>
-          <Source dwd:design-time-name="9811c4ac-b9f5-4c47-8418-286901eb64bc">
+          <Source dwd:design-time-name="0cf3225b-2eae-4dbe-aa06-97179d1a5c55">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="80ef9698-09c8-42c9-a2bf-5ed8c8f26176">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="11fb83c8-6dd3-4fd5-8068-54756b0e23c6">
               <TableID>dbo_grades</TableID>
               <ColumnID>year_of_study</ColumnID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="f8bdb5be-ab2f-4834-8861-b908165cf928">
+        <Measure dwd:design-time-name="d2857bf6-d3ff-4e33-ae99-1649902f5d21">
           <ID>Grades Count</ID>
           <Name>Grades Count</Name>
           <AggregateFunction>Count</AggregateFunction>
-          <Source dwd:design-time-name="3ffdc676-e307-4d89-ae02-5a8a4a55d79a">
+          <Source dwd:design-time-name="81d33677-827f-441f-87bc-2d20bfed0e9d">
             <DataType>Integer</DataType>
             <DataSize>4</DataSize>
-            <Source xsi:type="RowBinding" dwd:design-time-name="607ab66d-041b-410c-ae01-8f3bcbb27f20">
+            <Source xsi:type="RowBinding" dwd:design-time-name="b4785ee1-e278-4a8b-8f66-83abbd5e6ecf">
               <TableID>dbo_grades</TableID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="28a3a059-fa19-406d-86b8-0f3aea05ba71">
+        <Measure dwd:design-time-name="5bd7fd36-afb7-4c9f-a2d8-d46390279a89">
           <ID>Semester - Grades</ID>
           <Name>Grades Sum</Name>
-          <Source dwd:design-time-name="be50e81c-b468-4bdb-a0cc-cf74b8f90b36">
+          <Source dwd:design-time-name="5575b570-6393-48e4-b509-c3539a588e99">
             <DataType>Single</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="69cca3c6-cfc4-4f91-92aa-a9d0dda40c96">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="8345d8ac-3d32-4e56-93a1-a1f80f248f3e">
               <TableID>dbo_grades</TableID>
               <ColumnID>grade</ColumnID>
             </Source>
@@ -453,16 +452,16 @@
       <StorageMode>Molap</StorageMode>
       <ProcessingMode>Regular</ProcessingMode>
       <Dimensions>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="c5d8733e-ccaf-4351-98f3-7146ede692a8">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="f08ecdd3-75a0-40f3-a3f2-f1c81e799a7a">
           <CubeDimensionID>Students 1</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="e0be47a3-af02-49b1-b310-1c9c34794202">
+            <Attribute dwd:design-time-name="d2584ba9-3519-458b-a34b-afa523f1625f">
               <AttributeID>Student Id</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="fe4b681d-85f7-4718-aa3a-ee55d6ea9949">
+                <KeyColumn dwd:design-time-name="9d2db549-f03a-480a-8dd2-00f890330cc4">
                   <DataType>Integer</DataType>
                   <NullProcessing>UnknownMember</NullProcessing>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="b7ea52a3-022f-4d93-9ee4-d9a87ffc6b24">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="e8b5af2c-7ae3-43e3-aee5-4d0ac2014026">
                     <TableID>dbo_grades</TableID>
                     <ColumnID>student_id</ColumnID>
                   </Source>
@@ -472,17 +471,17 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="dec3fcb4-35a9-4cc2-867b-2fd98e70e94e">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="481ee52e-5646-4046-86f1-56d34f0882ec">
           <CubeDimensionID>Course Group</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="0777c488-ff68-4ca6-94b5-b1216f4c307e">
+            <Attribute dwd:design-time-name="2ba85560-2c3f-4cf0-a3b8-a3dc29784d50">
               <AttributeID>Course</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="7cb5f4be-9ee1-4517-b522-df77be13b7ec">
+                <KeyColumn dwd:design-time-name="21913c82-4537-4795-a6b2-4552d9383a06">
                   <DataType>WChar</DataType>
                   <DataSize>10</DataSize>
                   <NullProcessing>UnknownMember</NullProcessing>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="cb35cf38-2058-46d4-b78c-44c82ff08fe4">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="55295a4b-5f47-4819-8800-0d5b6d6b9b89">
                     <TableID>dbo_grades</TableID>
                     <ColumnID>course</ColumnID>
                   </Source>
@@ -492,15 +491,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="2e9cc25a-dbd9-4849-ba43-60fa3c41828e">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="90f4dbe8-b3d5-4b01-9a0a-d4a6a33b5c09">
           <CubeDimensionID>Teachers</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="1c1b9c1c-e28e-4bee-94c4-6c0cdb76c9ff">
+            <Attribute dwd:design-time-name="74f45119-f86e-4155-bcee-dd0a50ee1faf">
               <AttributeID>Teacher Id</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="33ea359e-5679-471f-95f5-b27a4439a328">
+                <KeyColumn dwd:design-time-name="6ae30c9e-82be-4355-8fbb-fa2ae7a46ad4">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="9eaf11ae-cb9b-4882-9f0f-e7a88909e134">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="1f174cac-216b-4785-b910-30f124bd802b">
                     <TableID>dbo_grades</TableID>
                     <ColumnID>teacher_id</ColumnID>
                   </Source>
@@ -510,16 +509,16 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="95b1b3f4-b749-4880-b68b-b33e2d037f9e">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="25ebf261-d551-4330-98e2-080a31402133">
           <CubeDimensionID>Grades Desc</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="b923963f-3874-4e8e-9232-260277e3cf3b">
+            <Attribute dwd:design-time-name="101fd76f-bec4-45db-95ff-e8d610f10acb">
               <AttributeID>Semester</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="16b05b65-5acb-42fa-b7be-3c0d08b23069">
+                <KeyColumn dwd:design-time-name="c14242cd-65b7-4e96-8d80-7ad10514ea5d">
                   <DataType>SmallInt</DataType>
                   <NullProcessing>UnknownMember</NullProcessing>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="ea626c90-ab75-4913-a2d1-70f0cefaf47c">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="b3d18734-34ea-4bd3-858a-71c67745ff14">
                     <TableID>dbo_grades</TableID>
                     <ColumnID>semester</ColumnID>
                   </Source>
@@ -529,16 +528,16 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="039c2bca-6330-4ab6-8e93-f51ac72199ce">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="3cfca602-113c-4159-84e3-00cfa21f37cb">
           <CubeDimensionID>Workload</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="cf153219-e750-4cb3-89ee-d0dd179e9dfb">
+            <Attribute dwd:design-time-name="d4737a6b-38a8-4b99-82d8-0d1e3635143d">
               <AttributeID>Teacher Id</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="336791f1-abe1-477b-9ccd-448fd3ad063a">
+                <KeyColumn dwd:design-time-name="a4c5f6df-7725-4437-b336-2eaac1a89a3b">
                   <DataType>Integer</DataType>
                   <NullProcessing>UnknownMember</NullProcessing>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="5eafae4b-60fc-49d4-9b15-c24ddeb6899e">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="3b683e7c-0167-45c9-85f9-7e46bfe2b294">
                     <TableID>dbo_grades</TableID>
                     <ColumnID>teacher_id</ColumnID>
                   </Source>
@@ -552,11 +551,11 @@
       <Partitions />
     </MeasureGroup>
   </MeasureGroups>
-  <Source dwd:design-time-name="6348b3ed-fc7c-4f47-ab75-9e27f23ebdea">
+  <Source dwd:design-time-name="90b1e59c-fb96-4804-b1a0-e57ac28c1c32">
     <DataSourceViewID>Czw 1</DataSourceViewID>
   </Source>
   <MdxScripts>
-    <MdxScript dwd:design-time-name="546c647e-26df-43a4-9c29-da77179f4df3">
+    <MdxScript dwd:design-time-name="fce3475f-725e-43ac-a190-b19326d4a085">
       <ID>MdxScript</ID>
       <Name>MdxScript</Name>
       <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>

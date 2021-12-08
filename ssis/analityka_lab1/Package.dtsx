@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="72"
-  DTS:VersionGUID="{797AEFE2-946D-4D31-AD6F-811F440AA3C0}">
+  DTS:VersionBuild="74"
+  DTS:VersionGUID="{E0DD065F-7320-4776-B8BE-774A10823B22}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -833,89 +833,6 @@
               version="1">
               <components>
                 <component
-                  refId="Package\Grades Container\load grades\add course_type"
-                  componentClassID="Microsoft.DerivedColumn"
-                  contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
-                  description="Creates new column values by applying expressions to transformation input columns. Create new columns or overwrite existing ones. For example, concatenate the values from the 'first name' and 'last name' column to make a 'full name' column."
-                  name="add course_type"
-                  usesDispositions="true">
-                  <inputs>
-                    <input
-                      refId="Package\Grades Container\load grades\add course_type.Inputs[Derived Column Input]"
-                      description="Input to the Derived Column Transformation"
-                      name="Derived Column Input">
-                      <inputColumns>
-                        <inputColumn
-                          refId="Package\Grades Container\load grades\add course_type.Inputs[Derived Column Input].Columns[course]"
-                          cachedCodepage="1252"
-                          cachedDataType="str"
-                          cachedLength="10"
-                          cachedName="course"
-                          lineageId="Package\Grades Container\load grades\grade csv.Outputs[Flat File Source Output].Columns[course]" />
-                      </inputColumns>
-                      <externalMetadataColumns />
-                    </input>
-                  </inputs>
-                  <outputs>
-                    <output
-                      refId="Package\Grades Container\load grades\add course_type.Outputs[Derived Column Output]"
-                      description="Default Output of the Derived Column Transformation"
-                      exclusionGroup="1"
-                      name="Derived Column Output"
-                      synchronousInputId="Package\Grades Container\load grades\add course_type.Inputs[Derived Column Input]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\Grades Container\load grades\add course_type.Outputs[Derived Column Output].Columns[course_type]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Computation"
-                          errorRowDisposition="FailComponent"
-                          length="1"
-                          lineageId="Package\Grades Container\load grades\add course_type.Outputs[Derived Column Output].Columns[course_type]"
-                          name="course_type"
-                          truncationRowDisposition="FailComponent">
-                          <properties>
-                            <property
-                              containsID="true"
-                              dataType="System.String"
-                              description="Derived Column Expression"
-                              name="Expression">[SUBSTRING](#{Package\Grades Container\load grades\grade csv.Outputs[Flat File Source Output].Columns[course]},[LEN](#{Package\Grades Container\load grades\grade csv.Outputs[Flat File Source Output].Columns[course]}),1)</property>
-                            <property
-                              containsID="true"
-                              dataType="System.String"
-                              description="Derived Column Friendly Expression"
-                              expressionType="Notify"
-                              name="FriendlyExpression">SUBSTRING(course,LEN(course),1)</property>
-                          </properties>
-                        </outputColumn>
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                    <output
-                      refId="Package\Grades Container\load grades\add course_type.Outputs[Derived Column Error Output]"
-                      description="Error Output of the Derived Column Transformation"
-                      exclusionGroup="1"
-                      isErrorOut="true"
-                      name="Derived Column Error Output"
-                      synchronousInputId="Package\Grades Container\load grades\add course_type.Inputs[Derived Column Input]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\Grades Container\load grades\add course_type.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\Grades Container\load grades\add course_type.Outputs[Derived Column Error Output].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\Grades Container\load grades\add course_type.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\Grades Container\load grades\add course_type.Outputs[Derived Column Error Output].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
                   refId="Package\Grades Container\load grades\add semester_type"
                   componentClassID="Microsoft.DerivedColumn"
                   contactInfo="Derived Column;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved; http://www.microsoft.com/sql/support;0"
@@ -1613,13 +1530,6 @@
                           cachedName="year_of_study"
                           externalMetadataColumnId="Package\Grades Container\load grades\grades.Inputs[OLE DB Destination Input].ExternalColumns[year_of_study]"
                           lineageId="Package\Grades Container\load grades\add year_of_study.Outputs[Derived Column Output].Columns[year_of_study]" />
-                        <inputColumn
-                          refId="Package\Grades Container\load grades\grades.Inputs[OLE DB Destination Input].Columns[course_type]"
-                          cachedDataType="wstr"
-                          cachedLength="1"
-                          cachedName="course_type"
-                          externalMetadataColumnId="Package\Grades Container\load grades\grades.Inputs[OLE DB Destination Input].ExternalColumns[course_type]"
-                          lineageId="Package\Grades Container\load grades\add course_type.Outputs[Derived Column Output].Columns[course_type]" />
                       </inputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -1664,11 +1574,6 @@
                           refId="Package\Grades Container\load grades\grades.Inputs[OLE DB Destination Input].ExternalColumns[year_of_study]"
                           dataType="i4"
                           name="year_of_study" />
-                        <externalMetadataColumn
-                          refId="Package\Grades Container\load grades\grades.Inputs[OLE DB Destination Input].ExternalColumns[course_type]"
-                          dataType="wstr"
-                          length="1"
-                          name="course_type" />
                       </externalMetadataColumns>
                     </input>
                   </inputs>
@@ -1711,19 +1616,14 @@
                   startId="Package\Grades Container\load grades\fix non exam grades.Outputs[Derived Column Output]" />
                 <path
                   refId="Package\Grades Container\load grades.Paths[Derived Column Output1]"
-                  endId="Package\Grades Container\load grades\add course_type.Inputs[Derived Column Input]"
+                  endId="Package\Grades Container\load grades\add year_of_study.Inputs[Derived Column Input]"
                   name="Derived Column Output"
-                  startId="Package\Grades Container\load grades\add year_of_study.Outputs[Derived Column Output]" />
+                  startId="Package\Grades Container\load grades\add semester_type.Outputs[Derived Column Output]" />
                 <path
                   refId="Package\Grades Container\load grades.Paths[Derived Column Output2]"
                   endId="Package\Grades Container\load grades\grades.Inputs[OLE DB Destination Input]"
                   name="Derived Column Output"
-                  startId="Package\Grades Container\load grades\add course_type.Outputs[Derived Column Output]" />
-                <path
-                  refId="Package\Grades Container\load grades.Paths[Derived Column Output3]"
-                  endId="Package\Grades Container\load grades\add year_of_study.Inputs[Derived Column Input]"
-                  name="Derived Column Output"
-                  startId="Package\Grades Container\load grades\add semester_type.Outputs[Derived Column Output]" />
+                  startId="Package\Grades Container\load grades\add year_of_study.Outputs[Derived Column Output]" />
                 <path
                   refId="Package\Grades Container\load grades.Paths[Flat File Source Output]"
                   endId="Package\Grades Container\load grades\filter illegal grades.Inputs[Conditional Split Input]"
@@ -3607,10 +3507,6 @@
       <GraphLayout
         Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
-          Size="160.8,41.6"
-          Id="Package\Course_group Container\load course group\course_group csv"
-          TopLeft="366.714285896749,56.5294119684754" />
-        <NodeLayout
           Size="142.4,41.6"
           Id="Package\Course_group Container\load course group\course_group"
           TopLeft="370.71428572645,202.94117752161" />
@@ -3618,6 +3514,10 @@
           Size="156,41.6"
           Id="Package\Course_group Container\load course group\add course_type"
           TopLeft="366.428577668813,133.823531288589" />
+        <NodeLayout
+          Size="160.8,41.6"
+          Id="Package\Course_group Container\load course group\course_group csv"
+          TopLeft="366.714285896749,56.5294119684754" />
         <EdgeLayout
           Id="Package\Course_group Container\load course group.Paths[Flat File Source Output]"
           TopLeft="445.771431782781,98.1294119684754">
@@ -3707,10 +3607,6 @@
           Size="165.6,41.6"
           Id="Package\Grades Container\load grades\add year_of_study"
           TopLeft="146.285717083483,226.411766464735" />
-        <NodeLayout
-          Size="156,41.6"
-          Id="Package\Grades Container\load grades\add course_type"
-          TopLeft="334.571431442183,226.717649514782" />
         <EdgeLayout
           Id="Package\Grades Container\load grades.Paths[Flat File Source Output]"
           TopLeft="305.819050729032,65.9372560959785">
@@ -3734,7 +3630,7 @@
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\Grades Container\load grades.Paths[Derived Column Output3]"
+          Id="Package\Grades Container\load grades.Paths[Derived Column Output1]"
           TopLeft="228.042859989283,188.176472175493">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -3747,62 +3643,6 @@
                   Capacity="5">
                   <mssgle:LineSegment
                     End="0,30.735294289242" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Grades Container\load grades.Paths[Derived Column Output2]"
-          TopLeft="412.571431442183,268.317649514782">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-93.3714282065019,49.989547422985"
-              Start="0,0"
-              End="-93.3714282065019,42.489547422985">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,20.9947737114925" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,20.9947737114925"
-                    Point2="0,24.9947737114925"
-                    Point3="-4,24.9947737114925" />
-                  <mssgle:LineSegment
-                    End="-89.3714282065019,24.9947737114925" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-89.3714282065019,24.9947737114925"
-                    Point2="-93.3714282065019,24.9947737114925"
-                    Point3="-93.3714282065019,28.9947737114925" />
-                  <mssgle:LineSegment
-                    End="-93.3714282065019,42.489547422985" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Grades Container\load grades.Paths[Derived Column Output1]"
-          TopLeft="311.885717083483,247.364707989759">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="22.6857143587,0"
-              Start="0,0"
-              End="15.1857143587,0">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="15.1857143587,0" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -3869,6 +3709,47 @@
               RelativePosition="Any" />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Grades Container\load grades.Paths[Derived Column Output2]"
+          TopLeft="229.085717083483,268.011766464735">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="90.114286152198,50.295430473032"
+              Start="0,0"
+              End="90.114286152198,42.795430473032">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,21.147715236516" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,21.147715236516"
+                    Point2="0,25.147715236516"
+                    Point3="4,25.147715236516" />
+                  <mssgle:LineSegment
+                    End="86.114286152198,25.147715236516" />
+                  <mssgle:CubicBezierSegment
+                    Point1="86.114286152198,25.147715236516"
+                    Point2="90.114286152198,25.147715236516"
+                    Point3="90.114286152198,29.147715236516" />
+                  <mssgle:LineSegment
+                    End="90.114286152198,42.795430473032" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <AnnotationLayout
+          Text=""
+          ParentId="Package\Grades Container\load grades"
+          FontInfo="{assembly:Null}"
+          Size="28.8,60"
+          Id="0a4db707-6e5e-4e9e-8b93-eb8a387d725c"
+          TopLeft="832,109.8" />
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
