@@ -89,7 +89,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Dimension</Type>
-        <TimeStamp>qcRIMiFTgSBeKLD49YIao0TQeRo=11/27/2021 7:24:52 PM11/27/2021 7:24:52 PM</TimeStamp>
+        <TimeStamp>r7zSuSEvLkxKtwJCI8o4JksYN8Y=12/9/2021 4:28:05 PM11/27/2021 7:24:52 PM</TimeStamp>
         <ID>
           <String>Workload</String>
         </ID>
@@ -120,5 +120,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2021-12-08T21:30:43.763333Z</LastDeployed>
+  <LastDeployed>2021-12-09T15:29:15.996667Z</LastDeployed>
 </DeploymentSnapshot>
